@@ -348,3 +348,4 @@ const medianTop10Percent = () => {
   return medianList.slice(-Math.floor(medianList.length * 0.1)).reverse();
 };
 ```
+## Finalize este curso en 7h
